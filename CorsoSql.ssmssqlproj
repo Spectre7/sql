@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CorsoSql">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-DP64RG5:DESKTOP-DP64RG5\giuseppe">
+          <Created>2017-01-20T14:28:04.5949733+01:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-DP64RG5</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01 DB - CREATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DP64RG5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DP64RG5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01 DB - CREATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01 DB - DROP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DP64RG5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DP64RG5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01 DB - DROP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Schema - examples.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DP64RG5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DP64RG5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Schema - examples.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QUERY - Metadata.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DP64RG5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DP64RG5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QUERY - Metadata.sql</FullPath>
+        </FileNode>
+        <FileNode Name="USER - CREATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DP64RG5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DP64RG5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>USER - CREATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="USER - DROP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DP64RG5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DP64RG5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>USER - DROP.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
