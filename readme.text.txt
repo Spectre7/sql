@@ -1,0 +1,1 @@
+SqlServerManagementExampleSolution contains CorsoSql folder with sql examples
